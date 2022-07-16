@@ -1,1 +1,1 @@
-# SS-chemical-calculator
+# Chemical Calculator: Coding Challenge
