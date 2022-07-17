@@ -23,3 +23,8 @@
 
 **Which products are or are not organic peroxides?**
 - According to CFR 173.128(a)(4) both product 2 and 3 are organic peroxides, while product 1 is not an organic peroxide according to CFR 173.128(a)(4)(i)
+
+
+## Alternate method using classes in Python
+- I took the functions from the chem_calc.py file and converted them into a class
+- The class provides a template or blueprint for future products that may need to be analyzed.
